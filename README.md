@@ -1,4 +1,4 @@
-# AesaraOptimizationAlgorithms
+# Numerical Optimization with Aesara
 Implementation of iterative optimizers in Aesara. So far I've done Newton's Method. Code for the algorithm was adapted from the Julia code posted by Oscar Veliz at https://github.com/osveliz/numerical-veliz.
 
 More algorithms to come as I find time.
